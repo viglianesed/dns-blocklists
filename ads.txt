@@ -1,3 +1,8 @@
+## Need testing
+0.0.0.0 cloudflare-content.easybrain.com
+0.0.0.0 www.cloudflare-content.easybrain.com
+
+## Sure ADs sites
 0.0.0.0 events-dca.bidder.kayzen.io
 0.0.0.0 www.events-dca.bidder.kayzen.io
 0.0.0.0 bidder.kayzen.io
@@ -28,5 +33,7 @@
 0.0.0.0 www.hyprmx.com
 0.0.0.0 tnc16-alisg.byteoversea.com
 0.0.0.0 www.tnc16-alisg.byteoversea.com
+0.0.0.0 tnc16-useast1a.byteoversea.com
+0.0.0.0 www.tnc16-useast1a.byteoversea.com
 0.0.0.0 byteoversea.com
 0.0.0.0 www.byteoversea.com
