@@ -1,0 +1,6 @@
+0.0.0.0 events-dca.bidder.kayzen.io
+0.0.0.0 www.events-dca.bidder.kayzen.io
+0.0.0.0 bidder.kayzen.io
+0.0.0.0 www.bidder.kayzen.io
+0.0.0.0 kayzen.io
+0.0.0.0 www.kayzen.io
