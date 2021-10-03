@@ -2,7 +2,7 @@
 0.0.0.0 cloudflare-content.easybrain.com
 0.0.0.0 www.cloudflare-content.easybrain.com
 
-## Sure ADs sites
+## Tested ADs sites
 0.0.0.0 events-dca.bidder.kayzen.io
 0.0.0.0 www.events-dca.bidder.kayzen.io
 0.0.0.0 bidder.kayzen.io
