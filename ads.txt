@@ -37,3 +37,5 @@
 0.0.0.0 www.tnc16-useast1a.byteoversea.com
 0.0.0.0 byteoversea.com
 0.0.0.0 www.byteoversea.com
+0.0.0.0 advancedhosters.com
+0.0.0.0 www.advancedhosters.com
