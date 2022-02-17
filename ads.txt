@@ -39,3 +39,5 @@
 0.0.0.0 www.byteoversea.com
 0.0.0.0 advancedhosters.com
 0.0.0.0 www.advancedhosters.com
+0.0.0.0 vg-aws-cdn-us-east-1a-hb.rayjump.com
+0.0.0.0 www.vg-aws-cdn-us-east-1a-hb.rayjump.com
