@@ -43,3 +43,11 @@
 0.0.0.0 www.vg-aws-cdn-us-east-1a-hb.rayjump.com
 0.0.0.0 sf19-fe-tos-sg.i18n-pglstatp.com
 0.0.0.0 www.sf19-fe-tos-sg.i18n-pglstatp.com
+0.0.0.0 loveface.xyz
+0.0.0.0 www.loveface.xyz
+0.0.0.0 tracksofast.com
+0.0.0.0 www.tracksofast.com
+0.0.0.0 bongacams7.com
+0.0.0.0 www.bongacams7.com
+0.0.0.0 bongacams.com
+0.0.0.0 www.bongacams.com
