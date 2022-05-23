@@ -55,3 +55,6 @@
 0.0.0.0 www.gcp-ms4.applovin.com
 0.0.0.0 applovin.com
 0.0.0.0 www.gcp-ms4.applovin.com
+0.0.0.0 fk-new-cdn-eu-central-1b-hb.rayjump.com
+0.0.0.0 www.fk-new-cdn-eu-central-1b-hb.rayjump.com
+
