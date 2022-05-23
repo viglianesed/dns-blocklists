@@ -51,3 +51,7 @@
 0.0.0.0 www.bongacams7.com
 0.0.0.0 bongacams.com
 0.0.0.0 www.bongacams.com
+0.0.0.0 gcp-ms4.applovin.com
+0.0.0.0 www.gcp-ms4.applovin.com
+0.0.0.0 applovin.com
+0.0.0.0 www.gcp-ms4.applovin.com
