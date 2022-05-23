@@ -57,4 +57,11 @@
 0.0.0.0 www.gcp-ms4.applovin.com
 0.0.0.0 fk-new-cdn-eu-central-1b-hb.rayjump.com
 0.0.0.0 www.fk-new-cdn-eu-central-1b-hb.rayjump.com
-
+0.0.0.0 a4.applovin.com
+0.0.0.0 www.a4.applovin.com
+0.0.0.0 cdn-adn-https-new.rayjump.com
+0.0.0.0 www.cdn-adn-https-new.rayjump.com
+0.0.0.0 rayjump.com
+0.0.0.0 www.rayjump.com
+0.0.0.0 mintegral.net
+0.0.0.0 www.mintegral.net
