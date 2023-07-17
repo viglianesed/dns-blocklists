@@ -50,8 +50,6 @@
 0.0.0.0 www.aylesburyvaledc.gov.uk
 0.0.0.0 breathehr.com
 0.0.0.0 www.breathehr.com
-0.0.0.0 bt.com
-0.0.0.0 www.bt.com
 0.0.0.0 sims.canon-europe.com
 0.0.0.0 www.sims.canon-europe.com
 0.0.0.0 clubwise.com
