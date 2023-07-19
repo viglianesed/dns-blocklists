@@ -14,8 +14,6 @@
 0.0.0.0 www.webrecruitjobs.com
 0.0.0.0 withings.com
 0.0.0.0 www.withings.com
-0.0.0.0 www.mediafire.com
-0.0.0.0 mediafire.com
 0.0.0.0 upverter.com
 0.0.0.0 www.upverter.com
 0.0.0.0 mcmodgen.com
